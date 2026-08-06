@@ -6,6 +6,18 @@ This project was developed as part of a Frontend Developer / UI-UX Design assess
 
 ---
 
+## Screenshots
+
+### Employee Dashboard
+
+<img width="577" height="789" alt="Employee view" src="https://github.com/user-attachments/assets/c8acde9f-6c9f-4562-8a5c-8f008dc454a8" />
+
+
+### Manager Dashboard
+
+<img width="567" height="624" alt="Manager view" src="https://github.com/user-attachments/assets/cf48b1eb-901d-4719-a48c-195bc302d1f6" />
+
+
 ## Features
 
 ### Employee Dashboard
